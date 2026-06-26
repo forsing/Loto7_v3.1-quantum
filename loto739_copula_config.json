@@ -1,0 +1,15 @@
+{
+  "random_seed": 39,
+  "lottery": {
+    "name": "Loto Serbia 7/39",
+    "pick": 7
+  },
+  "copula": {
+    "type": "gaussian",
+    "use_empirical_combo": true,
+    "use_position_copula": true
+  },
+  "blend": {
+    "objective_weight": 2.0
+  }
+}
